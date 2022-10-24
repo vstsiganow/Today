@@ -86,8 +86,8 @@
 		8446089A29033F0C0095633A /* Today */ = {
 			isa = PBXGroup;
 			children = (
-				8456FAE72905BFD60077D2F6 /* ContentView */,
 				844608AF290340420095633A /* Models */,
+				8456FAE72905BFD60077D2F6 /* ContentView */,
 				844608B42903E4320095633A /* ListViewController */,
 				844608C0290436A20095633A /* DetailViewController */,
 				8446089B29033F0C0095633A /* AppDelegate.swift */,
