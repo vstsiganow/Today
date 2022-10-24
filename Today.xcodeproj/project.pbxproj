@@ -103,8 +103,8 @@
 		844608AF290340420095633A /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				844608B82903EA250095633A /* UIColor+Today.swift */,
 				844608B02903405C0095633A /* Reminder.swift */,
+				844608B82903EA250095633A /* UIColor+Today.swift */,
 				844608B22903E15D0095633A /* Date+Today.swift */,
 			);
 			path = Models;
@@ -136,8 +136,8 @@
 			isa = PBXGroup;
 			children = (
 				8456FAE82905BFFF0077D2F6 /* UIView+PinnedSubview.swift */,
-				8456FAEA2905C6630077D2F6 /* TextFieldContentView.swift */,
 				8456FAEC2905C9440077D2F6 /* UIContentConfiguration+Stateless.swift */,
+				8456FAEA2905C6630077D2F6 /* TextFieldContentView.swift */,
 				8456FAEE2905D2020077D2F6 /* TextViewContentView.swift */,
 				8456FAF02905D6490077D2F6 /* DatePickerContentView.swift */,
 			);
